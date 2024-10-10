@@ -24,6 +24,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Dev1singhal/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/Dev1singhal/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dev1singhal/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Dev1singhal/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Dev1singhal/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dev1singhal/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Dev1singhal/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Dev1singhal/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -64,4 +66,12 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/Dev1singhal/Leetcode/tree/master/1002-maximum-width-ramp) |
+## Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Dev1singhal/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Dev1singhal/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->

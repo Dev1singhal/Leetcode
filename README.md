@@ -11,6 +11,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Dev1singhal/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dev1singhal/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Dev1singhal/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Dev1singhal/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Stack
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Dev1singhal/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Dev1singhal/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Dev1singhal/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dev1singhal/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dev1singhal/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Dev1singhal/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2211-k-radius-subarray-averages](https://github.com/Dev1singhal/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Dev1singhal/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Prefix Sum
@@ -50,6 +53,7 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Dev1singhal/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dev1singhal/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Dev1singhal/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Hash Table
 |  |
 | ------- |

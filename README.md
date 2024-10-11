@@ -10,6 +10,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dev1singhal/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Dev1singhal/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dev1singhal/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1894-merge-strings-alternately](https://github.com/Dev1singhal/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dev1singhal/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Dev1singhal/Leetcode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->

@@ -24,6 +24,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/Dev1singhal/Leetcode/tree/master/0670-maximum-swap) |
 | [0876-hand-of-straights](https://github.com/Dev1singhal/Leetcode/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dev1singhal/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Dev1singhal/Leetcode/tree/master/1304-longest-happy-string) |
@@ -203,6 +204,7 @@
 ## Math
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/Dev1singhal/Leetcode/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/Dev1singhal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |

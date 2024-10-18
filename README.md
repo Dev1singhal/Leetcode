@@ -48,6 +48,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dev1singhal/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Dev1singhal/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2211-k-radius-subarray-averages](https://github.com/Dev1singhal/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dev1singhal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Dev1singhal/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Dev1singhal/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -210,4 +212,12 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Dev1singhal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->

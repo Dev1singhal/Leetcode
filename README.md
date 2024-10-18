@@ -9,6 +9,7 @@
 | [0409-longest-palindrome](https://github.com/Dev1singhal/Leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dev1singhal/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Dev1singhal/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Dev1singhal/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Dev1singhal/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dev1singhal/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Dev1singhal/Leetcode/tree/master/1304-longest-happy-string) |
@@ -20,6 +21,7 @@
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Dev1singhal/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dev1singhal/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Dev1singhal/Leetcode/tree/master/1002-maximum-width-ramp) |
 ## Greedy
@@ -28,6 +30,7 @@
 | [0409-longest-palindrome](https://github.com/Dev1singhal/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Dev1singhal/Leetcode/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/Dev1singhal/Leetcode/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/Dev1singhal/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/Dev1singhal/Leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Dev1singhal/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dev1singhal/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -132,6 +135,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Dev1singhal/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dev1singhal/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |

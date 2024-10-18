@@ -36,6 +36,7 @@
 | [0917-boats-to-save-people](https://github.com/Dev1singhal/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dev1singhal/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/Dev1singhal/Leetcode/tree/master/0985-bag-of-tokens) |
+| [1033-broken-calculator](https://github.com/Dev1singhal/Leetcode/tree/master/1033-broken-calculator) |
 | [1304-longest-happy-string](https://github.com/Dev1singhal/Leetcode/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dev1singhal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Dev1singhal/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -229,6 +230,7 @@
 | ------- |
 | [0670-maximum-swap](https://github.com/Dev1singhal/Leetcode/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/Dev1singhal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1033-broken-calculator](https://github.com/Dev1singhal/Leetcode/tree/master/1033-broken-calculator) |
 ## Geometry
 |  |
 | ------- |

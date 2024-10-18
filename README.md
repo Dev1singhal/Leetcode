@@ -34,6 +34,7 @@
 | [0876-hand-of-straights](https://github.com/Dev1singhal/Leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Dev1singhal/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dev1singhal/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0985-bag-of-tokens](https://github.com/Dev1singhal/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1304-longest-happy-string](https://github.com/Dev1singhal/Leetcode/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dev1singhal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Dev1singhal/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -50,6 +51,7 @@
 | [0876-hand-of-straights](https://github.com/Dev1singhal/Leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Dev1singhal/Leetcode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Dev1singhal/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [0985-bag-of-tokens](https://github.com/Dev1singhal/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1002-maximum-width-ramp](https://github.com/Dev1singhal/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/Dev1singhal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dev1singhal/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -141,6 +143,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Dev1singhal/Leetcode/tree/master/0455-assign-cookies) |
+| [0985-bag-of-tokens](https://github.com/Dev1singhal/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1894-merge-strings-alternately](https://github.com/Dev1singhal/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dev1singhal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/Dev1singhal/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -155,6 +158,7 @@
 | [0506-relative-ranks](https://github.com/Dev1singhal/Leetcode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Dev1singhal/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0876-hand-of-straights](https://github.com/Dev1singhal/Leetcode/tree/master/0876-hand-of-straights) |
+| [0985-bag-of-tokens](https://github.com/Dev1singhal/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/Dev1singhal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dev1singhal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |

@@ -42,6 +42,7 @@
 | [1304-longest-happy-string](https://github.com/Dev1singhal/Leetcode/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/Dev1singhal/Leetcode/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dev1singhal/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1961-maximum-ice-cream-bars](https://github.com/Dev1singhal/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dev1singhal/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Dev1singhal/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Dev1singhal/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -69,6 +70,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dev1singhal/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dev1singhal/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1961-maximum-ice-cream-bars](https://github.com/Dev1singhal/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Dev1singhal/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2211-k-radius-subarray-averages](https://github.com/Dev1singhal/Leetcode/tree/master/2211-k-radius-subarray-averages) |
@@ -180,6 +182,7 @@
 | [0985-bag-of-tokens](https://github.com/Dev1singhal/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/Dev1singhal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1961-maximum-ice-cream-bars](https://github.com/Dev1singhal/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Dev1singhal/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dev1singhal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Heap (Priority Queue)
@@ -261,4 +264,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/Dev1singhal/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->

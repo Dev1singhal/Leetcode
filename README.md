@@ -43,6 +43,7 @@
 | [1448-maximum-69-number](https://github.com/Dev1singhal/Leetcode/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dev1singhal/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dev1singhal/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Dev1singhal/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dev1singhal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Dev1singhal/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Dev1singhal/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -71,6 +72,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2211-k-radius-subarray-averages](https://github.com/Dev1singhal/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dev1singhal/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Dev1singhal/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dev1singhal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Dev1singhal/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Dev1singhal/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -175,6 +177,7 @@
 | [0985-bag-of-tokens](https://github.com/Dev1singhal/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/Dev1singhal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Dev1singhal/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dev1singhal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Heap (Priority Queue)
 |  |

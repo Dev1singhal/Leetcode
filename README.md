@@ -43,6 +43,7 @@
 | [1448-maximum-69-number](https://github.com/Dev1singhal/Leetcode/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dev1singhal/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dev1singhal/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Dev1singhal/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Dev1singhal/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dev1singhal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Dev1singhal/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -72,6 +73,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2211-k-radius-subarray-averages](https://github.com/Dev1singhal/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dev1singhal/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Dev1singhal/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Dev1singhal/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dev1singhal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Dev1singhal/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -121,6 +123,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Dev1singhal/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Dev1singhal/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dev1singhal/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Dev1singhal/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev1singhal/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
@@ -230,6 +233,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Dev1singhal/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Dev1singhal/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dev1singhal/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Dev1singhal/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Matrix
 |  |
 | ------- |

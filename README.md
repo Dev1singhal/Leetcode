@@ -301,23 +301,27 @@
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Dev1singhal/Leetcode/tree/master/0112-path-sum) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Dev1singhal/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Dev1singhal/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Dev1singhal/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Dev1singhal/Leetcode/tree/master/0112-path-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Dev1singhal/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Dev1singhal/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Dev1singhal/Leetcode/tree/master/0112-path-sum) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Dev1singhal/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Dev1singhal/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Dev1singhal/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Dev1singhal/Leetcode/tree/master/0112-path-sum) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Dev1singhal/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Dev1singhal/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->

@@ -92,6 +92,7 @@
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Dev1singhal/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dev1singhal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Dev1singhal/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Dev1singhal/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev1singhal/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
@@ -101,6 +102,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Dev1singhal/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dev1singhal/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Dev1singhal/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dev1singhal/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Dev1singhal/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2487-optimal-partition-of-string](https://github.com/Dev1singhal/Leetcode/tree/master/2487-optimal-partition-of-string) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Dev1singhal/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev1singhal/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
@@ -178,6 +181,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dev1singhal/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dev1singhal/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dev1singhal/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -207,6 +211,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/Dev1singhal/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Dev1singhal/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dev1singhal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Dev1singhal/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |

@@ -94,6 +94,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Dev1singhal/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Dev1singhal/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dev1singhal/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev1singhal/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
@@ -182,6 +183,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dev1singhal/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dev1singhal/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dev1singhal/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,6 +273,7 @@
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dev1singhal/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dev1singhal/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dev1singhal/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Trie
 |  |
 | ------- |

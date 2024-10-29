@@ -92,6 +92,7 @@
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Dev1singhal/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dev1singhal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Dev1singhal/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dev1singhal/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Dev1singhal/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dev1singhal/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -317,12 +318,14 @@
 | ------- |
 | [0112-path-sum](https://github.com/Dev1singhal/Leetcode/tree/master/0112-path-sum) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Dev1singhal/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dev1singhal/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Dev1singhal/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Dev1singhal/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Dev1singhal/Leetcode/tree/master/0112-path-sum) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dev1singhal/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Dev1singhal/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Dev1singhal/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -330,6 +333,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/Dev1singhal/Leetcode/tree/master/0112-path-sum) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Dev1singhal/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dev1singhal/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Dev1singhal/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Dev1singhal/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -338,5 +342,6 @@
 | [0112-path-sum](https://github.com/Dev1singhal/Leetcode/tree/master/0112-path-sum) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Dev1singhal/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dev1singhal/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dev1singhal/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Dev1singhal/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->

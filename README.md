@@ -50,6 +50,7 @@
 | [1304-longest-happy-string](https://github.com/Dev1singhal/Leetcode/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/Dev1singhal/Leetcode/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dev1singhal/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dev1singhal/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dev1singhal/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1961-maximum-ice-cream-bars](https://github.com/Dev1singhal/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dev1singhal/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -83,6 +84,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dev1singhal/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dev1singhal/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dev1singhal/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Dev1singhal/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Dev1singhal/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -103,6 +105,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dev1singhal/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Dev1singhal/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dev1singhal/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dev1singhal/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Dev1singhal/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sliding Window
@@ -183,6 +186,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dev1singhal/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dev1singhal/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dev1singhal/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dev1singhal/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dev1singhal/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Two Pointers

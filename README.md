@@ -11,6 +11,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Dev1singhal/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Dev1singhal/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Dev1singhal/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0812-rotate-string](https://github.com/Dev1singhal/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dev1singhal/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Dev1singhal/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Dev1singhal/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -350,4 +351,8 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dev1singhal/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dev1singhal/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Dev1singhal/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Dev1singhal/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->

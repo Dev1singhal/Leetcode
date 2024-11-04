@@ -67,6 +67,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Dev1singhal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dev1singhal/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -161,6 +162,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/Dev1singhal/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Rolling Hash
@@ -302,6 +304,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/0078-subsets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Dev1singhal/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration

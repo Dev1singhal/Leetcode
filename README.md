@@ -29,6 +29,7 @@
 | [2487-optimal-partition-of-string](https://github.com/Dev1singhal/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2580-circular-sentence](https://github.com/Dev1singhal/Leetcode/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/Dev1singhal/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3451-string-compression-iii](https://github.com/Dev1singhal/Leetcode/tree/master/3451-string-compression-iii) |
 ## Stack
 |  |
 | ------- |

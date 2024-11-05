@@ -34,6 +34,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dev1singhal/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Dev1singhal/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dev1singhal/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Dev1singhal/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -328,6 +329,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dev1singhal/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Dev1singhal/Leetcode/tree/master/0112-path-sum) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Dev1singhal/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dev1singhal/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -343,6 +345,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dev1singhal/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Dev1singhal/Leetcode/tree/master/0112-path-sum) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Dev1singhal/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dev1singhal/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -351,6 +354,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dev1singhal/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Dev1singhal/Leetcode/tree/master/0112-path-sum) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Dev1singhal/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dev1singhal/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |

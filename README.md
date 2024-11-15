@@ -39,6 +39,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dev1singhal/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Dev1singhal/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Dev1singhal/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Dev1singhal/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dev1singhal/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dev1singhal/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Dev1singhal/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dev1singhal/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dev1singhal/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Dev1singhal/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -123,6 +125,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dev1singhal/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Dev1singhal/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dev1singhal/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Dev1singhal/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dev1singhal/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Dev1singhal/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Dev1singhal/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -202,6 +205,7 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/Dev1singhal/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Dev1singhal/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue
 |  |
 | ------- |
@@ -228,6 +232,7 @@
 | [0455-assign-cookies](https://github.com/Dev1singhal/Leetcode/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Dev1singhal/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/Dev1singhal/Leetcode/tree/master/0985-bag-of-tokens) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Dev1singhal/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/Dev1singhal/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dev1singhal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Dev1singhal/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |

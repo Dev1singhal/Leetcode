@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dev1singhal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Dev1singhal/Leetcode/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev1singhal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dev1singhal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Dev1singhal/Leetcode/tree/master/0027-remove-element) |
 | [0455-assign-cookies](https://github.com/Dev1singhal/Leetcode/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Dev1singhal/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/Dev1singhal/Leetcode/tree/master/0985-bag-of-tokens) |

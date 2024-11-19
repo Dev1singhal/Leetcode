@@ -114,6 +114,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dev1singhal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Dev1singhal/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dev1singhal/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dev1singhal/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Dev1singhal/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Dev1singhal/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -155,6 +156,7 @@
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Dev1singhal/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2211-k-radius-subarray-averages](https://github.com/Dev1singhal/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Dev1singhal/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dev1singhal/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev1singhal/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Dev1singhal/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Dev1singhal/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -188,6 +190,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Dev1singhal/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Dev1singhal/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2487-optimal-partition-of-string](https://github.com/Dev1singhal/Leetcode/tree/master/2487-optimal-partition-of-string) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dev1singhal/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Dev1singhal/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev1singhal/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |

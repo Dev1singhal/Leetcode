@@ -102,6 +102,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dev1singhal/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Dev1singhal/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1961-maximum-ice-cream-bars](https://github.com/Dev1singhal/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1972-rotating-the-box](https://github.com/Dev1singhal/Leetcode/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Dev1singhal/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Dev1singhal/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -249,6 +250,7 @@
 | [0985-bag-of-tokens](https://github.com/Dev1singhal/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Dev1singhal/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/Dev1singhal/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1972-rotating-the-box](https://github.com/Dev1singhal/Leetcode/tree/master/1972-rotating-the-box) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dev1singhal/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Dev1singhal/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Dev1singhal/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -337,6 +339,7 @@
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dev1singhal/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dev1singhal/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1972-rotating-the-box](https://github.com/Dev1singhal/Leetcode/tree/master/1972-rotating-the-box) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dev1singhal/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Trie
 |  |

@@ -426,4 +426,8 @@
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/Dev1singhal/Leetcode/tree/master/2716-prime-subtraction-operation) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Dev1singhal/Leetcode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->

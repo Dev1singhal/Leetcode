@@ -74,6 +74,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dev1singhal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dev1singhal/Leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Dev1singhal/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev1singhal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -352,6 +353,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Dev1singhal/Leetcode/tree/master/0066-plus-one) |
 | [0670-maximum-swap](https://github.com/Dev1singhal/Leetcode/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/Dev1singhal/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1033-broken-calculator](https://github.com/Dev1singhal/Leetcode/tree/master/1033-broken-calculator) |

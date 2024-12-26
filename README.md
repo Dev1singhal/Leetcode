@@ -77,6 +77,7 @@
 | [0011-container-with-most-water](https://github.com/Dev1singhal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dev1singhal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dev1singhal/Leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Dev1singhal/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dev1singhal/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev1singhal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -348,6 +349,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dev1singhal/Leetcode/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dev1singhal/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dev1singhal/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/Dev1singhal/Leetcode/tree/master/1972-rotating-the-box) |
@@ -361,6 +363,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dev1singhal/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dev1singhal/Leetcode/tree/master/0066-plus-one) |
 | [0670-maximum-swap](https://github.com/Dev1singhal/Leetcode/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/Dev1singhal/Leetcode/tree/master/1014-k-closest-points-to-origin) |

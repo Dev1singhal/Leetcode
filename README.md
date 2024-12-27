@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dev1singhal/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Dev1singhal/Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Dev1singhal/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Dev1singhal/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Dev1singhal/Leetcode/tree/master/0561-array-partition) |
@@ -78,6 +79,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dev1singhal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dev1singhal/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Dev1singhal/Leetcode/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/Dev1singhal/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Dev1singhal/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev1singhal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -242,6 +244,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Dev1singhal/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev1singhal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/Dev1singhal/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dev1singhal/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |

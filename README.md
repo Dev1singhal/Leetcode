@@ -24,6 +24,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dev1singhal/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Dev1singhal/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dev1singhal/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dev1singhal/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/Dev1singhal/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Dev1singhal/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dev1singhal/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -65,6 +66,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dev1singhal/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dev1singhal/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dev1singhal/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dev1singhal/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1961-maximum-ice-cream-bars](https://github.com/Dev1singhal/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2089-maximum-matrix-sum](https://github.com/Dev1singhal/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dev1singhal/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |

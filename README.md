@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Dev1singhal/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/Dev1singhal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/Dev1singhal/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0409-longest-palindrome](https://github.com/Dev1singhal/Leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dev1singhal/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -34,6 +35,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dev1singhal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dev1singhal/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Dev1singhal/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dev1singhal/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |

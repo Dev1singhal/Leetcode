@@ -150,6 +150,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/Dev1singhal/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Dev1singhal/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Dev1singhal/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Dev1singhal/Leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Binary Search
 |  |
 | ------- |
@@ -385,6 +386,7 @@
 | [1972-rotating-the-box](https://github.com/Dev1singhal/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Dev1singhal/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dev1singhal/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Dev1singhal/Leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Trie
 |  |
 | ------- |
@@ -429,6 +431,7 @@
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Dev1singhal/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3447-clear-digits](https://github.com/Dev1singhal/Leetcode/tree/master/3447-clear-digits) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Dev1singhal/Leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Tree
 |  |
 | ------- |

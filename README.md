@@ -364,6 +364,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dev1singhal/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Dev1singhal/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0328-odd-even-linked-list](https://github.com/Dev1singhal/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Merge Sort
 |  |
 | ------- |

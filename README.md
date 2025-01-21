@@ -365,6 +365,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dev1singhal/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Dev1singhal/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Dev1singhal/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dev1singhal/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Dev1singhal/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -437,6 +438,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Dev1singhal/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dev1singhal/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [1197-parsing-a-boolean-expression](https://github.com/Dev1singhal/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Dev1singhal/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |

@@ -155,6 +155,7 @@
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev1singhal/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Dev1singhal/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Dev1singhal/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Dev1singhal/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Dev1singhal/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Dev1singhal/Leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Binary Search
@@ -238,6 +239,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Dev1singhal/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Dev1singhal/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev1singhal/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Dev1singhal/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -455,6 +457,7 @@
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Dev1singhal/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Dev1singhal/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Dev1singhal/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Dev1singhal/Leetcode/tree/master/3447-clear-digits) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Dev1singhal/Leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Tree

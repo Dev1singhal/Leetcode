@@ -433,6 +433,7 @@
 | [1033-broken-calculator](https://github.com/Dev1singhal/Leetcode/tree/master/1033-broken-calculator) |
 | [1448-maximum-69-number](https://github.com/Dev1singhal/Leetcode/tree/master/1448-maximum-69-number) |
 | [2716-prime-subtraction-operation](https://github.com/Dev1singhal/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Dev1singhal/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Geometry
 |  |
 | ------- |
@@ -443,6 +444,7 @@
 | [0078-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/0078-subsets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Dev1singhal/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dev1singhal/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Dev1singhal/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Enumeration
 |  |
 | ------- |
